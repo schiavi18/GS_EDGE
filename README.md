@@ -20,20 +20,20 @@ O projeto demonstra como tecnologias inteligentes podem melhorar o bem-estar, a 
 
 ## 🎯 2. Objetivos do Projeto
 
-- 🚀 Criar uma estação ambiental acessível para home office e estudo.  
-- 📡 Enviar dados ambientais em tempo real via MQTT.  
-- 🌐 Simular integração HTTP por meio de logs estruturados.  
-- ⚠ Detectar condições impróprias (calor, pouca luz, umidade irregular).  
-- 🦾 Ajudar especialmente pessoas cegas, surdas ou com hipersensibilidade.
+- 🚀 Criar uma estação ambiental acessível para home office e estudo;  
+- 📡 Enviar dados ambientais em tempo real via MQTT;  
+- 🌐 Simular integração HTTP por meio de logs estruturados;
+- ⚠ Detectar condições impróprias (calor, pouca luz, umidade irregular); 
+- 🦾 Ajudar especialmente pessoas cegas, surdas ou com hipersensibilidade;
 
 ---
 
 ## 🛠 3. Componentes Utilizados (Wokwi)
 
-- 🧠 **ESP32 DevKit V1**  
+- 🧠 **ESP32**  
 - 🌡 **Sensor DHT22** (temperatura e umidade)  
 - 🔆 **Sensor LDR** (luminosidade)  
-- 📶 WiFi simulado (Wokwi-GUEST)
+- 📶 WiFi (Wokwi-GUEST)
 
 ---
 
@@ -48,12 +48,12 @@ O projeto demonstra como tecnologias inteligentes podem melhorar o bem-estar, a 
 
 ## 🔧 5. Funcionalidades Principais
 
-- 📊 Leitura de temperatura, umidade e luz a cada 3s.  
+- 📊 Leitura de temperatura, umidade e luz a cada 3s;  
 - 💡 Classificação automática da luminosidade:
   - 🌑 Ambiente escuro  
   - 🌥 Iluminação média  
   - ☀ Ambiente claro  
-- 📡 Envio de dados MQTT no tópico `inclusivework/dados`.  
+- 📡 Envio de dados MQTT no tópico `inclusivework/dados`; 
 - 🌍 Logs HTTP simulados no Serial.  
 - 🚨 Alertas inteligentes quando:
   - 🔥 Temperatura é alta  
