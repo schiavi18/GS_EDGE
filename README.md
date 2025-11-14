@@ -1,7 +1,7 @@
 # 🌐 InclusiveWork Station – Estação de Acessibilidade Inteligente  
 💡 Monitoramento Ambiental Inclusivo com ESP32 + MQTT + HTTP (Wokwi)
 
-**👉 LINK VÍDEO EXPLICATIVO ->** [Click aqui para acessar ao código. ](https://youtu.be/EDsJhb-zxZk?si=L3hjPIxst4zU4Kdf) 
+**👉 LINK VÍDEO EXPLICATIVO ->** [Click aqui para acessar ao vídeo. ](https://youtu.be/EDsJhb-zxZk?si=L3hjPIxst4zU4Kdf) 
 
 **👉 LINK DO CÓDIGO ->** [Click aqui para acessar ao código. ](https://github.com/schiavi18/GS_EDGE/commit/a50cc2f44ad64ff63443dcaa920b8a09f9dd3df5)
 
